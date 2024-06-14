@@ -24,7 +24,7 @@ To run the Day Counter App locally, follow these steps:
 5.  Navigate to the directory where `main.py` is saved.
 6.  Run the Streamlit app by executing the following command:
 
-    streamlit run day_counter_app.py
+    streamlit run main.py
 
 Usage
 -----
@@ -47,7 +47,7 @@ The main components of the code include:
 Customization
 -------------
 
-You can customize the background image by editing the CSS section in the `day_counter_app.py` file:
+You can customize the background image by editing the CSS section in the `main.py` file:
 
     <style>
     .stApp {
