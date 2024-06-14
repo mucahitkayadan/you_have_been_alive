@@ -30,7 +30,7 @@ def main():
         unsafe_allow_html=True
     )
 
-    st.title("Day Counter App")
+    st.title("How Many Days Have You Been Alive?")
 
     # Create a container for the content
     with st.container():
