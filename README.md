@@ -20,8 +20,8 @@ To run the Day Counter App locally, follow these steps:
 
     pip install streamlit
 
-4.  Download or clone the repository containing the `day_counter_app.py` file.
-5.  Navigate to the directory where `day_counter_app.py` is saved.
+4.  Download or clone the repository containing the `main.py` file.
+5.  Navigate to the directory where `main.py` is saved.
 6.  Run the Streamlit app by executing the following command:
 
     streamlit run day_counter_app.py
